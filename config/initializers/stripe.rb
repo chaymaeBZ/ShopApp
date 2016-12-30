@@ -1,3 +1,3 @@
 require "stripe"
 
-Stripe.api_key = "pk_test_9tG3pSS0Nd7PvUYoEUx8LPWI"
+Stripe.api_key = "sk_test_P1HjhRcojw1ugZ15tFKnmq65"
